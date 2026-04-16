@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "repo": "vcon-dev.github.io",
+  "repo_version": null,
+  "archetype": "minimal",
+  "generated_at": "2026-04-16T15:15:45.624209+00:00",
+  "stats": {
+    "node_count": 0,
+    "edge_count": 0
+  },
+  "nodes": [],
+  "edges": [],
+  "subsystems": []
+}
